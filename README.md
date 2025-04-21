@@ -8,8 +8,9 @@ If you plan to use our dataset, we kindly request that you give appropriate cita
 
 Please cite these papers:
 
-1) "On-Shore Plastic Waste Detection with YOLOv5 and RGB-Near-Infrared Fusion: A State-of-the-Art Solution for Accurate and Efficient Environmental Monitoring." You can find this article at https://doi.org/10.3390/bdcc7020103.
-2) "A review of hyperspectral imaging-based plastic waste detection state-of-the-arts." This article can be accessed at http://doi.org/10.11591/ijece.v13i3.pp3407-3419.
-3) "A Comparison of RGB and RGNIR Color Spaces for Plastic Waste Detection Using The YOLOv5 Architecture." You can find this article at https://doi.org/10.1109/IICAIET55139.2022.9936771.
+1) "RGB and RGNIR Image Dataset for Machine Learning in Plastic Waste Detection." You can find this article at https://doi.org/10.1016/j.dib.2025.111524.
+2) "On-Shore Plastic Waste Detection with YOLOv5 and RGB-Near-Infrared Fusion: A State-of-the-Art Solution for Accurate and Efficient Environmental Monitoring." You can find this article at https://doi.org/10.3390/bdcc7020103.
+3) "A review of hyperspectral imaging-based plastic waste detection state-of-the-arts." This article can be accessed at http://doi.org/10.11591/ijece.v13i3.pp3407-3419.
+4) "A Comparison of RGB and RGNIR Color Spaces for Plastic Waste Detection Using The YOLOv5 Architecture." You can find this article at https://doi.org/10.1109/IICAIET55139.2022.9936771. 
 
 Thank you for considering our dataset.
